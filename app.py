@@ -6,7 +6,7 @@ Loads the artifacts produced by Credit_Card_Fraud_Detection_Colab.ipynb:
     - scaler_time.pkl
     - feature_columns.pkl
 
-Built by Mirza Yasir Abdullah Baig
+Built by Rabia Basri
 """
 
 import numpy as np
@@ -22,10 +22,10 @@ st.set_page_config(
     initial_sidebar_state="expanded",
 )
 
-AUTHOR_NAME = "Mirza Yasir Abdullah Baig"
-GITHUB_URL = "https://github.com/mirzayasirabdullahbaig07"
-LINKEDIN_URL = "https://www.linkedin.com/in/mirza-yasir-abdullah-baig/"
-KAGGLE_URL = "https://www.kaggle.com/myab07"
+AUTHOR_NAME = "Rabia Basri"
+GITHUB_URL = "https://github.com/rabiabasri45"
+LINKEDIN_URL = "https://www.linkedin.com/in/rabiabasri45/"
+KAGGLE_URL = "https://www.kaggle.com/rabiabasri45"
 
 # ---------------------------------------------------------------------------
 # Global styling — "security command-center" theme
